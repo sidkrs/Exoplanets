@@ -2,11 +2,8 @@
 # -*- coding: utf-8 -*-
 '''
 Siddarth Kerkar
-Intro to Programming With Data
 
-Date: Tue Oct 11 11:47:34 2022
-
-File: exoplanets.py
+File: exoplanet.py
 
 Description: Analyze data regarding planets and find the planets
 most similar to Earth
